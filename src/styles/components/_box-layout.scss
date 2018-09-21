@@ -1,0 +1,39 @@
+.box-layout {
+  align-items: center;
+  background: $light-gray;
+  background-size: cover;
+  display: flex;
+  //height: 100vh;
+  justify-content: center;
+  //width: 100vw;
+}
+
+.box-layout__right-box {
+  border-radius: 3px;
+  padding: $l-size $m-size;
+  text-align: right;
+  width: 25rem;
+}
+.box-layout__left-box {
+  border-radius: 3px;
+  border-left: 2px;
+  border-left: black;
+  border-left-style: double;
+  border-right: 2px;
+  border-right: black;
+  border-right-style: double;
+  padding: $l-size $m-size;
+  text-align: left;
+  width: 25rem;
+}
+.box-layout__center-box {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+}
+.box {
+  background: pink;
+  width: 90%;
+  border: 1px solid rgb(189, 24, 24);
+}

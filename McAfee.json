@@ -1,0 +1,231 @@
+[
+  {
+    "name": "McAfee",
+    "categories": [
+      {
+        "id": "1",
+        "title": "Network Protection",
+        "dir": "right",
+        "icon": "network-protection.jpg",
+        "product": [
+          {
+            "productName": "Firewall",
+            "vendorName": "McAfee"
+          },
+          {
+            "productName": "Intrusion Prevention",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Next Generation Firewall",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Behavioral Analysics",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Threat Forensics",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Network Access Control",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Password Authentication",
+            "vendorName": "NA"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Email & web",
+        "dir": "right",
+        "icon": "email-and-web.jpg",
+        "product": [
+          {
+            "productName": "Email Gateway",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Web Gateway",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "URL Filtering",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Cloud Identity",
+            "vendorName": "NA"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Risk & Compliance",
+        "dir": "right",
+        "icon": "risk-and-compliance.jpg",
+        "product": [
+          {
+            "productName": "Vulnerability Management",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Remediation Management",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Risk Analysis/Reporting",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Policy Audit",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "SIEM",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Log Management",
+            "vendorName": "NA"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Other Key IT Partners",
+        "dir": "right",
+        "icon": "other-key.jpg",
+        "product": [
+          {
+            "productName": "Virtualization",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Enterprize Storage",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Backup & Recovery",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Network infrastructure",
+            "vendorName": "NA"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Desktop Protection",
+        "dir": "left",
+        "icon": "desktop-protection.jpg",
+        "product": [
+          {
+            "productName": "Antimalware",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Desktop Firewall",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Host IPS",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Web Filter",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Mobility Management",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "App Control/Whitelist",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Vitualization",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Network Access Control",
+            "vendorName": "NA"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Data Protection",
+        "dir": "left",
+        "icon": "data-protection.jpg",
+        "product": [
+          {
+            "productName": "Disk Encryption",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "File Encryption",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Device Control",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "DLP Endpoint",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Network DLP",
+            "vendorName": "NA"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Data Center/Server Protection",
+        "dir": "left",
+        "icon": "data-center.jpg",
+        "product": [
+          {
+            "productName": "Antimalware",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Host IPS",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Change Control",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Network Access Control",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "App Control/Whitelist",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Database Security",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Virtualization/Optimization",
+            "vendorName": "NA"
+          },
+          {
+            "productName": "Security Management",
+            "vendorName": "NA"
+          }
+        ]
+      }
+    ]
+  }
+]
