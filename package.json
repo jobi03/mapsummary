@@ -10,10 +10,10 @@
     "boilerplate"
   ],
   "main": "index.js",
-  "homepage": "https://jobi03.github.io",
+  "homepage": "https://jobi03.github.io/mapsummary",
   "repository": {
     "type": "git",
-    "url": "https://jobi03.github.io/mapsummary/"
+    "url": "https://jobi03.github.io/mapsummary"
   },
   "scripts": {
     "start": "webpack-dev-server --inline --hot --history-api-fallback --host localhost --port 8080",

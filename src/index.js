@@ -4,13 +4,16 @@ import ReactDOM from 'react-dom'
 import { Provider } from 'react-redux'
 import { store } from './store.js'
 import { router } from './router.js'
-// import DragDrop from './components/DragnDrop'
+import {HashRouter,Route,Switch} from 'react-router-dom'
 
 // render the main component
 ReactDOM.render(
-  <Provider store={store}>
-    {router}
-  </Provider>,
-  // <DragDrop />,
+  <HashRouter>
+  <Switch>
+    <Provider store={store}>
+      <Route exact path='/' component={router} />
+    </Provider>
+  </Switch>
+</HashRouter>,
   document.getElementById('app')
 )
